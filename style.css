@@ -531,6 +531,23 @@ color: var(--secondary-color);
   padding: 3px;
  }
 
+ /* JS ABOUT ME DROP DOWN Index */
+
+ .drop-down-about {
+   margin-left: 10px;
+   margin-right: 10px;
+   
+ }
+ .drop-down-box {
+   color: white;
+   background-color: var(--secondary-color);
+   border-radius: 5px;
+ }
+
+ option {
+  
+ }
+
 
 
 
